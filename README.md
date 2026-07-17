@@ -12,6 +12,8 @@
 
 **globo rodando** https://aayushbharti.in/
 
+**sobre mim** https://adarshsinghh.vercel.app/
+
 ------
-parei em Abdul Mannan
+parei em Adarsh Kumar
 https://github.com/emmabostian/developer-portfolios
